@@ -1,0 +1,241 @@
+Jain Vibes UI Component System
+
+Design Language:
+- Mobile-first, clean, calm, minimal.
+- Rounded corners, soft shadows, warm colors.
+- No emojis.
+- Smooth micro-interactions.
+
+Color Palette:
+- Sandalwood: #E6D2B5
+- Soft White: #FAFAFA
+- Gold Tint: #D4AF37
+- Holy Grey: #F5F5F5
+- Warm Maroon: #800000
+- Calm Beige: #F5F5DC
+
+Typography:
+- Headings: Calm serif or devotional typeface (e.g., Lora, Merriweather).
+- Body: Simple sans-serif (e.g., Inter, Roboto).
+- Fine Print: Soft grey (#888888).
+
+---
+
+Core UI Components
+
+1. Header Navigation Bar
+   - Structure: Fixed top bar.
+   - Left: Logo (Text: Jain Vibes).
+   - Right: Hamburger Menu Icon.
+   - Drawer Items: Home, Features, Music Engine, Coach Modes, 30-Day Challenge, SOS, About, Contact.
+   - Behavior: Slide-out drawer from right on mobile.
+
+2. Hero Section Component
+   - Background: Full-width, soft abstract Jain spiritual texture (sandalwood/gold gradients).
+   - Content:
+     - Title: Large, centered serif text.
+     - Subtitle: Medium, centered sans-serif text.
+     - Buttons:
+       - Primary: "Start Jain Vibes" (Solid Maroon, White Text).
+       - Secondary: "Explore Features" (Outline Maroon).
+
+3. Section Title Component
+   - Structure: Centered layout.
+   - Title: H2, Serif, Dark Grey.
+   - Subtitle: H3, Sans-serif, Light Grey.
+   - Divider: Thin gold line below subtitle.
+
+4. Feature Card Component
+   - Layout: Vertical card with soft shadow.
+   - Icon: Small placeholder circle at top.
+   - Title: Bold, centered.
+   - Description: Short paragraph, centered.
+   - Button: "Learn More" (Text link style).
+
+5. Playlist Block Card Component
+   - Layout: Card with cover art placeholder on left (desktop) or top (mobile).
+   - Content:
+     - Title: Bold.
+     - Description: Italicized.
+     - Track List: 3 lines of text (Track Name - Artist).
+     - Button: "Listen on Spotify" (External link icon).
+
+6. AI Coach Mode Card
+   - Layout: Card with centered avatar placeholder.
+   - Content:
+     - Mode Title: Bold.
+     - Description: Short text.
+     - Button: "Select" (Primary style).
+   - Interaction: Slight lift on hover/tap.
+
+7. 30-Day Challenge Day Card
+   - Layout: Horizontal strip or small card.
+   - Content:
+     - Day Number: Large, bold number (e.g., "01").
+     - Title: Day Theme.
+     - Task Preview: Bullet list of 2-3 items.
+     - Button: "Start" or "Continue" (Primary).
+
+8. SOS Button Component
+   - Shape: Large Circle.
+   - Color: Soft Red/Maroon gradient.
+   - Label: "Calm My Mind" (White text).
+   - Animation: Pulse effect on press.
+
+9. SOS Flow Component
+   - Layout: Vertical step list.
+   - Step:
+     - Title: Bold step name.
+     - Guidance: Instructional text.
+     - Button: "Next" (Primary).
+
+10. Mood Selector Component
+    - Layout: Horizontal scrollable row.
+    - Items: Pills/Chips.
+    - Labels: Calm, Low, Anxious, Overthinking, Focus, Neutral, Positive.
+    - State: Selected item changes to solid color (Gold/Maroon).
+
+11. Journal Entry Component
+    - Layout: Vertical form.
+    - Title: "Today's Reflection".
+    - Input: Multiline text area with soft border.
+    - Button: "Save Entry" (Primary).
+    - Empty State: "No entries yet. Start writing..."
+
+12. Daily Ritual Card
+    - Layout: Card with checkable list.
+    - Content:
+      - Title: Ritual Name.
+      - Description: Short text.
+      - Music Suggestion: "Recommended: [Track Name]".
+      - Steps: List with checkboxes.
+      - Button: "Mark as Done" (Primary).
+
+13. Footer Component
+    - Layout: 4 Columns (Desktop), Stacked (Mobile).
+    - Columns: About, Links, Legal, Contact.
+    - Style: Minimal, grey background, small text.
+
+14. Floating Banner Component
+    - Position: Fixed top (sticky).
+    - Animation: Slide down on load.
+    - Content: "Introducing Jain Vibes - Your Jain Emotional Wellness Companion".
+    - Button: "Try Now" (Small, solid).
+
+15. Subdomain Access Ribbon
+    - Layout: Thin bar below header.
+    - Content: "Access the full Jain Vibes app at jainvibes.example.com".
+    - Interaction: Clickable, opens new tab.
+
+16. Contact Form Component
+    - Fields: Name (Input), Email (Input), Message (Textarea).
+    - Button: "Submit" (Primary).
+    - Validation: Red border on error, Green text on success.
+
+17. Testimonial/User Reflection Card
+    - Layout: Card with quote icon.
+    - Content: Quote text, User Initials (bottom right).
+    - Style: Soft beige background.
+
+18. Music Track Row
+    - Layout: Horizontal row.
+    - Content: Track Title (Bold), Artist (Regular).
+    - Action: Play Button (Icon), Spotify Link (Icon).
+
+19. Onboarding Screen Component
+    - Layout: Full screen overlay.
+    - Content: Title, Subtext, Illustration placeholder.
+    - Navigation: "Next" button, Progress dots at bottom.
+
+20. Mobile Navigation Drawer
+    - Layout: Slide-out panel from right.
+    - Header: Close button (X).
+    - List: Vertical list of links.
+    - Footer: Social icons.
+
+21. Notification Card Component
+    - Layout: Small toast/banner.
+    - Content: Title, Time (e.g., "2m ago").
+    - Interaction: Tap to expand/dismiss.
+
+22. Data Insight Card
+    - Layout: Card.
+    - Content: Title (e.g., "Mood Streak"), Big Number, Trend Line (Placeholder).
+
+23. Mood Trend Graph Component
+    - Layout: Chart container.
+    - Content: Line chart placeholder, X-axis (Days), Y-axis (Mood).
+
+24. Affirmation Card
+    - Layout: Centered card.
+    - Content: Large text quote.
+    - Action: Refresh icon button.
+
+25. Voice Mode Control Bar
+    - Layout: Fixed bottom bar.
+    - Controls: Mic button (Center), Stop button (Right).
+    - Visual: Waveform animation placeholder when active.
+
+26. Crisis Safety Card
+    - Layout: High-contrast card (Red border).
+    - Content: Title "Crisis Support", Grounding text, Helpline number.
+    - Action: "Call Now" button.
+
+27. Exam Mode Card
+    - Layout: Card.
+    - Content: Title, Timer (00:00), Start Button.
+    - Section: "Tips" list.
+
+28. Prebuilt Kit Card
+    - Layout: Grid item.
+    - Content: Title (e.g., "Anxiety Kit"), Description.
+    - Action: "Open Kit" button.
+
+29. Multi-step Form Component
+    - Layout: Progress bar top.
+    - Content: Question text, Input field.
+    - Action: "Continue" button.
+
+30. Instructional Popover
+    - Layout: Small tooltip.
+    - Content: Text, Close (X).
+    - Arrow: Pointing to target element.
+
+31. Setting Toggle Component
+    - Layout: Row.
+    - Content: Label, Toggle Switch (On/Off).
+
+32. Loading State Component
+    - Visual: Pulsing circle or wheel animation.
+    - Text: "Preparing your experience..."
+
+33. Error State Component
+    - Visual: Warning icon.
+    - Content: Title "Something went wrong", Retry Button.
+
+34. Empty State Component
+    - Visual: Empty folder/box icon.
+    - Content: "Nothing here yet", Subtext.
+
+35. Lightbox Modal Component
+    - Layout: Full screen dim overlay.
+    - Container: Centered white box.
+    - Content: Dynamic (Playlist, Ritual details).
+    - Action: Close button (Top right).
+
+36. Two-column Desktop Layout
+    - Layout: Flex row.
+    - Left: 60% width (Content).
+    - Right: 40% width (Image/Card).
+    - Mobile: Stacks vertically.
+
+37. Card Grid Component
+    - Layout: CSS Grid.
+    - Columns: Repeat(auto-fit, minmax(300px, 1fr)).
+    - Gap: 20px.
+
+38. Button Variants
+    - Primary: Background Maroon, Text White.
+    - Secondary: Border Maroon, Text Maroon, Background Transparent.
+    - Minimal: Text Maroon, Underline on hover.
+    - Destructive: Background Red, Text White.

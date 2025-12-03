@@ -1,0 +1,217 @@
+Jain Vibes Website Content
+
+---
+
+Home Page
+
+Title: Jain Vibes
+Subtitle: A Jain Emotional Wellness Companion for Today's Generation
+
+Sections:
+
+Intro:
+Welcome to Jain Vibes, a sanctuary where ancient Jain wisdom meets modern emotional wellness. In a world of constant noise and anxiety, we provide a space for grounding, healing, and inner peace. Our platform is designed specifically for Gen-Z, offering tools that resonate with your life while staying true to the timeless principles of non-violence (Ahimsa), truth (Satya), and non-attachment (Aparigraha).
+
+Core Pillars:
+1. Jain Wisdom: Timeless teachings adapted for modern mental health challenges.
+2. Emotional Balance: Tools to navigate anxiety, stress, and relationships.
+3. Music Therapy: Curated devotional tracks to shift your energy instantly.
+4. Compassionate AI Guidance: An empathetic coach available 24/7 to listen and guide.
+
+Showcase of AI Coach Modes:
+Explore our diverse AI personas designed to meet you where you are. Whether you need a supportive Friend, a wise Spiritual Guide, or a gentle Romantic Mode, our AI adapts to your emotional needs.
+
+Overview of the Jain Music Engine:
+Discover the power of sound with our mood-based music engine. From Morning Calm to High-Energy Bhakti, select your vibe and let the music heal you.
+
+Overview of the 30-Day Healing Journey:
+Embark on a transformative 30-day challenge. Each day brings a new task focused on gratitude, mindfulness, or connection, helping you build lasting spiritual habits.
+
+Quick Links:
+[Start Now]
+[Try the AI Coach]
+
+---
+
+Features Page
+
+AI Jain Spiritual Coach:
+Your personal guide for emotional and spiritual support. Chat with personas like the Prevention Mode for safety or the Hype Mode for motivation.
+
+Jain Music Engine:
+A curated library of Jain devotional music categorized by mood. Instantly find the perfect track for meditation, study, or energy.
+
+One-Tap SOS Calming Tool:
+Immediate relief for panic and high anxiety. Follow a guided 5-step flow including breathing exercises and the Navkar Mantra.
+
+Mood Journaling:
+Track your emotional state daily. Reflect on your feelings and see how your spiritual practice influences your well-being.
+
+Voice Mode Conversation:
+Speak directly to the AI coach. Experience a natural, comforting conversation with voice responses that feel like a real friend.
+
+Daily Rituals:
+Simple, actionable rituals to incorporate Jain principles into your daily routine for a balanced life.
+
+Exam Mode:
+Specialized support for students. Focus tools and calming techniques to manage exam stress and boost productivity.
+
+Crisis Safe Mode:
+A protective mode that prioritizes your safety. Provides immediate grounding resources and helpline information when you need it most.
+
+Pre-Built Mental Wellness Kits:
+Targeted kits for specific challenges like anxiety, breakup recovery, and relationship FOMO. Get instant, relevant advice.
+
+---
+
+Music Engine Page
+
+How It Works:
+Select your current mood or desired state, and our engine curates a specific block of Jain devotional tracks to match. No searching required—just pure vibes.
+
+Playlist Blocks:
+
+Morning Calm:
+Start your day with purity and grounding.
+Tracks: Navkar Mantra, Nem Aavshe, Parmatma Bani Jase Maro Aatma.
+
+Focus and Study (Jain LoFi):
+LoFi-style Jain chants for study and deadlines.
+Tracks: Navkar LoFi, Namami Nemi (Soft), Chowk Puravo Calm Mix.
+
+Girnar and Neminath Devotion:
+High-bhakti, high-intensity devotional power.
+Tracks: Girnare Shree Prabhu Nem Che, Rome Rome Nemi No, Nemras.
+
+Bhajan Club:
+High-energy spiritual tracks for walks & vibes.
+Tracks: Jhume Re Jhume Anande, Musafari, Radha Se Kanha Saiyaara.
+
+Aadinath Grounding:
+Gentle, emotional, father-like devotion.
+Tracks: Vhala Aadinath, Jeni Kiki Kali Che, O Mara Rupala Bhagwan.
+
+Night Calm Down:
+End your day with softness and surrender.
+Tracks: Nemras Soft Mix, Chowk Puravo, Dur Dur Thi Tara Darbare.
+
+---
+
+Coach Modes Page
+
+Friendly Mode:
+A casual, supportive companion for everyday chats. Feels like talking to a best friend who understands your values.
+
+Romantic Mode:
+A safe, gentle space to discuss feelings of love and connection, grounded in respect and purity.
+
+Soulmate Mode:
+Deep conversations about finding connection and understanding relationships through a spiritual lens.
+
+Coach Mode:
+Direct, actionable advice for personal growth and discipline. Helps you stay on track with your goals.
+
+Hype Mode:
+High-energy motivation to lift your spirits and get you moving. Perfect for when you need a boost.
+
+Anxiety Shield Mode:
+Calming and protective. Uses grounding techniques to help you navigate through anxious moments.
+
+Exam Mode:
+Focused support for academic stress. Tips for concentration and calmness during study sessions.
+
+Crisis Safe Mode:
+Prioritizes immediate safety and stability. Hard-coded responses to ensure you get the help you need without delay.
+
+---
+
+30-Day Challenge Page
+
+Overview:
+A structured journey to reset your mind and soul. Over 30 days, you will engage in small, meaningful tasks that cumulatively lead to a significant shift in your perspective and peace of mind.
+
+Weekly Themes:
+Week 1: Foundation & Cleansing
+Week 2: Gratitude & Connection
+Week 3: Mindfulness & Discipline
+Week 4: Integration & Growth
+
+Call to Action:
+[Start Your Journey Today]
+
+---
+
+SOS Page
+
+The 5-Step Calming Flow:
+1. Breathing: Follow the visual guide to slow down your breath (Inhale 4s, Hold 7s, Exhale 8s).
+2. Short Chant Audio: Listen to the soothing Navkar Mantra to shift your focus.
+3. Grounding: Simple physical techniques to reconnect with the present moment.
+4. Reassurance: Affirmations to remind you that you are safe and supported.
+5. Continue with Coach: Seamlessly transition to a chat with the AI for further support.
+
+---
+
+About Jain Vibes Page
+
+Our Mission:
+To make the profound wisdom of Jainism accessible and relevant to the mental health needs of the modern generation.
+
+Why Jain Spiritual Practices Support Mental Peace:
+Jainism offers practical tools for emotional regulation. Concepts like Anekantavada (many-sidedness) help reduce conflict, while meditation (Dhyana) fosters inner silence.
+
+Blending Ancient Principles with Modern Wellness:
+We bridge the gap between tradition and technology, offering a platform that respects your heritage while using advanced AI to provide real-time support.
+
+---
+
+Contact Page
+
+Get in Touch:
+We would love to hear from you. Whether you have feedback, questions, or just want to share your story.
+
+Form Fields:
+Name
+Email
+Message
+[Submit Button]
+
+Support Details:
+Email: support@jainvibes.example.com
+
+---
+
+Footer
+
+Links:
+Home
+Features
+Music Engine
+Coach Modes
+30-Day Challenge
+SOS
+About
+Contact
+
+Legal:
+Privacy Policy
+Terms of Service
+
+Copy:
+Built with love for inner peace. Jain Vibes (c) 2024.
+
+---
+
+Subdomain Integration
+
+Access the Full App:
+Jain Vibes is also available as a dedicated web application. Experience the full suite of tools at jainvibes.example.com.
+
+---
+
+Animated Floating Banner
+
+Content:
+Introducing Jain Vibes
+Your Jain Emotional Wellness Companion
+[Try Now]
